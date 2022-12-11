@@ -1,6 +1,6 @@
 # shop app ui
 
-followed tutorial from youtube.
+followed tutorial from youtube. I made some changes because of deprecation of some widgets.
 
 ## Getting Started
 
